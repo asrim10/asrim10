@@ -1,7 +1,13 @@
-<!-- Profile Banner -->
+<!-- Pixel Art Profile Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=230&section=header&text=Asrim%20Suwal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=240&section=header&text=Asrim%20Suwal&fontSize=42&fontColor=ffffff&animation=fadeIn&customColorList=0,2,4&desc=Pixel%20Dev%20Desk&descAlign=50&descAlignY=70" />
+</p>
+
+<!-- Animated Typing Intro -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+%7C+Mobile+%7C+Backend;React+%7C+Node+%7C+Flutter+%7C+Kotlin" />
 </p>
 
 <h3 align="center">Full Stack Developer</h3>
@@ -36,18 +42,29 @@
 * Full-stack music streaming application
 * Features: authentication, playlists, high-quality audio streaming
 * Tech: **React, Node.js, Express, PostgreSQL, Firebase**
+* 🔗 Repo: [https://github.com/asrim10/Innertune](https://github.com/asrim10/Innertune)
 
 ### 📱 Android Music App
 
 * Native Android app with music playback & playlist management
 * Firebase authentication & Cloudinary media storage
 * Tech: **Kotlin, Firebase, Cloudinary**
+* 🔗 Repo: [https://github.com/asrim10](https://github.com/asrim10)
 
 ### 🚗 Car Listing & Rental Platform
 
 * Web app for listing, selling, and renting cars
 * Dynamic UI with real-time updates
 * Tech: **React, Node.js, PostgreSQL, Sequelize**
+* 🔗 Repo: [https://github.com/asrim10](https://github.com/asrim10)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asrim10&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
