@@ -42,21 +42,18 @@
 * Full-stack music streaming application
 * Features: authentication, playlists, high-quality audio streaming
 * Tech: **React, Node.js, Express, PostgreSQL, Firebase**
-* 🔗 Repo: [https://github.com/asrim10/Innertune](https://github.com/asrim10/Innertune)
 
 ### 📱 Android Music App
 
 * Native Android app with music playback & playlist management
 * Firebase authentication & Cloudinary media storage
 * Tech: **Kotlin, Firebase, Cloudinary**
-* 🔗 Repo: [https://github.com/asrim10](https://github.com/asrim10)
 
 ### 🚗 Car Listing & Rental Platform
 
 * Web app for listing, selling, and renting cars
 * Dynamic UI with real-time updates
 * Tech: **React, Node.js, PostgreSQL, Sequelize**
-* 🔗 Repo: [https://github.com/asrim10](https://github.com/asrim10)
 
 ---
 
