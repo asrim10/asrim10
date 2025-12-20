@@ -1,6 +1,6 @@
 <!-- Pixel Art Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=240&section=header&text=Asrim%20Suwal&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Pixel%20Dev%20Desk&descAlign=50&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=240&section=header&text=Asrim%20Suwal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Animated Typing Intro -->
@@ -37,19 +37,16 @@
 - Full-stack music streaming application
 - Authentication, playlists, high-quality audio streaming
 - **Tech:** React, Node.js, Express, PostgreSQL, Firebase  
-- 🔗 **Repo:** https://github.com/asrim10/Innertune
 
 ### 📱 Android Music App
 - Native Android app with music playback & playlist management
 - Firebase authentication & Cloudinary media storage
 - **Tech:** Kotlin, Firebase, Cloudinary  
-- 🔗 **Repo:** https://github.com/asrim10
 
 ### 🚗 Car Listing & Rental Platform
 - Web app for listing, selling, and renting cars
 - Dynamic UI with real-time updates
 - **Tech:** React, Node.js, PostgreSQL, Sequelize  
-- 🔗 **Repo:** https://github.com/asrim10
 
 ---
 
