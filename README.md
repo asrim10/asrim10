@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,java,kotlin,flutter,dart,firebase,postgres,mongodb,git,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,java,kotlin,flutter,dart,firebase,postgres,mongodb,git,tailwind&theme=dark" />
 </p>
 
 ---
@@ -58,13 +58,6 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrim10&show_icons=true&theme=tokyonight&hide_border=true&icon_color=38bdf8&title_color=38bdf8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrim10&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=asrim10&theme=tokyonight&hide_border=true" />
@@ -76,9 +69,6 @@
 <p align="center">
   <a href="mailto:asrimmsuwall@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
-  <a href="https://www.instagram.com/asrim__10/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
 </p>
 
