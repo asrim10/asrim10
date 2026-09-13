@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="mailto:asrimmsuwall@gmail.com">📧 asrimmsuwall@gmail.com</a> •
-  <a href="https://www.instagram.com/asrim__10/" target="_blank">Instagram</a>
 </p>
 
 ---
